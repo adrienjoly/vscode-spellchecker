@@ -1,3 +1,5 @@
+== v1.3.00: support vscode v1.12 (with updated electron version)
+
 == v1.2.15: Added sample regexes
 
 == v1.2.14: Removed enum preset (regex) causing a warning
