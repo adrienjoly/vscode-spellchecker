@@ -4,6 +4,8 @@
 > 
 > One drawback is that the extension needs to be compiled separately for each platform, because [Atom's node-spellcheck npm module](https://github.com/atom/node-spellchecker) is a native module. And I had to use [electron-rebuild](https://github.com/electron/electron/blob/master/docs/tutorial/using-native-node-modules.md#the-easy-way) in order to compile accordingly to [VSCode's Electron version](https://code.visualstudio.com/docs/extensions/patterns-and-principles#_common-questions).
 
+ℹ️ If this extension is not working for you, give a try to [French - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french), as [suggested by @pvincent](https://github.com/swyphcosmo/vscode-spellchecker/issues/31#issuecomment-372090902).
+
 # Offline French Spell Checker
 
 [![Current Version](http://vsmarketplacebadge.apphb.com/version/adrienjoly.vscode-spellchecker-fr.svg)](https://marketplace.visualstudio.com/items?itemName=adrienjoly.vscode-spellchecker-fr)
